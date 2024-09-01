@@ -29,7 +29,7 @@ const Home: NextPage = () => {
     setLoading(true);
     try {
       if (caption === "") {
-        toast.error("Silahkan masukkan deskripsi kontenmu", {
+        toast.error("Silahkan masukkan deskripsi kontenmu.", {
           style: {
             background: "#ff5d5d",
             color: "#fff",
