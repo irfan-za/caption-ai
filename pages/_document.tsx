@@ -10,7 +10,7 @@ class MyDocument extends Document {
             name="description"
             content="Buat caption media sosial yang menarik dan meningkatkan engagement dalam hitungan detik."
           />
-          <meta property="og:site_name" content="caption-ai.vercel.app" />
+          <meta property="og:site_name" content="caption-aii.vercel.app" />
           <meta
             property="og:description"
             content="Buat caption media sosial yang menarik dan meningkatkan engagement dalam hitungan detik."
@@ -24,11 +24,11 @@ class MyDocument extends Document {
           />
           <meta
             property="og:image"
-            content="https://caption-ai.vercel.app/og-image.png"
+            content="https://caption-aii.vercel.app/og-image.png"
           />
           <meta
             name="twitter:image"
-            content="https://caption-ai.vercel.app/og-image.png"
+            content="https://caption-aii.vercel.app/og-image.png"
           />
         </Head>
         <body>

@@ -13,6 +13,6 @@ Caption-AI uses the power of AI to generate creative captions that will grab att
 
 ### Using Caption-AI
 
-1. Visit the Caption-AI website: [https://caption-ai.vercel.app](Caption-AI)
+1. Visit the Caption-AI website: [https://caption-aii.vercel.appp](Caption-AI)
 2. Provide any specific details you want the caption to include.
 3. Click "Generate Captions" and select the best caption for your post.
